@@ -1,7 +1,7 @@
 ## Greetings! 👋
 
 # About Me:
-My name is Eric and I'm a third year Software Engineering Co-op student at McGill University. <br>My interests include fullstack application development as well as researching the ethical concerns surrounding Generative AI.<br>I'm currently learning about the components and considerations of embedded Linux programming.
+My name is Eric and I'm a third year Software Engineering Co-op student at McGill University. <br>My interests include low level development, system engineering, as well as researching the ethical concerns surrounding Generative AI.<br>I'm currently learning about the components and considerations of embedded Linux programming.
 
 
 # Projects :
