@@ -5,6 +5,7 @@ My name is Eric and I'm a third year Software Engineering Co-op student at McGil
 
 
 # Projects :
+- [SmartBell](https://github.com/Redcowbois/Codejam-2025.git) : STM32, MQTT, C, Python, Flask, OpenCV
 - [maigoro](https://github.com/ZEric2407/maigoro) : Svelte, Python, Google Cloud Platform
 - [SportSync](https://github.com/McGill-ECSE321-Winter2024/project-group-17) : Java, Springboot, Vue.Js, PostgreSQL
 - [McGillMart](https://github.com/kookouri/ECSE-428-05) : Java, Springboot, Vue.Js, Gherkin
